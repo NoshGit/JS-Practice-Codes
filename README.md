@@ -1,3 +1,3 @@
-# js-r8jgdv
+# This is a practice code for handling different scenerios in JS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-r8jgdv)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-r8jgdv)s
